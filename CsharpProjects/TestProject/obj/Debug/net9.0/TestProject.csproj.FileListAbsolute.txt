@@ -12,3 +12,4 @@ C:\Users\victo\Desktop\c#\CsharpProjects\TestProject\obj\Debug\net9.0\refint\Tes
 C:\Users\victo\Desktop\c#\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Users\victo\Desktop\c#\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Users\victo\Desktop\c#\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\victo\Desktop\c#\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
