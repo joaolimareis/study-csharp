@@ -1,0 +1,5 @@
+C:\Users\victo\Desktop\c#\obj\Debug\net9.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\c#\obj\Debug\net9.0\c#.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\c#\obj\Debug\net9.0\c#.AssemblyInfo.cs
+C:\Users\victo\Desktop\c#\obj\Debug\net9.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\c#\obj\Debug\net9.0\c#.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\Desktop\\c#\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\Desktop\\c#\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Desktop\\c#\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\victo\\Desktop\\c#\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj",
+        "projectName": "for",
+        "projectPath": "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Desktop\\c#\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Desktop\\c#\\for\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

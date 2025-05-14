@@ -1,0 +1,15 @@
+C:\Users\victo\Desktop\c#\for\bin\Debug\net9.0\for.exe
+C:\Users\victo\Desktop\c#\for\bin\Debug\net9.0\for.deps.json
+C:\Users\victo\Desktop\c#\for\bin\Debug\net9.0\for.runtimeconfig.json
+C:\Users\victo\Desktop\c#\for\bin\Debug\net9.0\for.dll
+C:\Users\victo\Desktop\c#\for\bin\Debug\net9.0\for.pdb
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.AssemblyInfo.cs
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.sourcelink.json
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.dll
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\refint\for.dll
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.pdb
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\for.genruntimeconfig.cache
+C:\Users\victo\Desktop\c#\for\obj\Debug\net9.0\ref\for.dll
