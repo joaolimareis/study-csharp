@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Desktop\\c#\\Modulo03_Loops\\for.csproj",
       "projectName": "for",
-      "projectPath": "C:\\Users\\victo\\Desktop\\c#\\for\\for.csproj",
+      "projectPath": "C:\\Users\\victo\\Desktop\\c#\\Modulo03_Loops\\for.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Desktop\\c#\\for\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Desktop\\c#\\Modulo03_Loops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

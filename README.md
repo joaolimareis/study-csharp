@@ -1,6 +1,6 @@
 # study-csharp
 Free Foundational C# with Microsoft Certification
-# Repositório de Estudos em C#
+# Repositório de Estudos em C 
 
 Este repositório contém meus exercícios e práticas no curso de C#.
 
